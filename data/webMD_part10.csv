@@ -1,0 +1,250 @@
+Age~Condition~Date~Drug~DrugId~EaseofUse~Effectiveness~Satisfaction~Sex~Sides~UsefulCount
+75 or over~con 1~9/21/2014~da~120~5~5~5~Male~Drowsiness,  dizziness ,  dry mouth /nose/throat,  headache ,  upset stomach ,  constipation , or  trouble sleeping  may occur.~0
+25-34~con 1~1/13/2011~db~124~5~5~5~Female~Drowsiness,  dizziness ,  dry mouth /nose/throat,  headache ,  upset stomach ,  constipation , or  trouble sleeping  may occur.~1
+65-74~con 2~7/16/2012~da~120~2~3~3~Female~NULL~0
+75 or over~con 2~9/23/2010~db~124~2~2~1~Female~NULL~0
+35-44~Other~2009-06-01 00:00:00~warfarin (bulk) 100 % powder~144731~1~1~1~Male~NULL~1
+55-64~Other~7/19/2008~warfarin (bulk) 100 % powder~144731~4~4~4~Male~NULL~0
+25-34~Birth Control~6/15/2017~wymzya fe~163180~5~5~2~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.~0
+45-54~Disease of Ovaries with Cysts~1/30/2017~wymzya fe~163180~5~5~5~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.~0
+25-34~Acne~4/27/2016~wymzya fe~163180~4~2~2~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, swelling of the  ankles /feet (fluid retention), or  weight  change may occur.~1
+55-64~Stuffy Nose~10/29/2012~12 hour nasal relief spray, non-aerosol~9800~4~2~2~Male~Temporary burning, stinging, dryness in the nose,  runny nose , and  sneezing  may occur.~0
+65-74~Other~3/15/2016~pyrogallol crystals~12112~5~5~5~Male~NULL~0
+19-24~Birth Control~11/17/2018~lyza~164750~5~5~2~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~0
+NULL~Birth Control~2018-03-07 00:00:00~lyza~164750~2~1~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~0
+19-24~Birth Control~2018-06-03 00:00:00~lyza~164750~2~3~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~0
+35-44~Birth Control~2/13/2018~lyza~164750~5~5~5~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~0
+25-34~Birth Control~2017-09-12 00:00:00~lyza~164750~2~2~1~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+25-34~Birth Control~2017-07-10 00:00:00~lyza~164750~1~1~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+25-34~Birth Control~9/27/2017~lyza~164750~4~4~1~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+25-34~Birth Control~1/30/2017~lyza~164750~5~5~4~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+25-34~Birth Control~2016-01-06 00:00:00~lyza~164750~2~5~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~3
+35-44~Birth Control~2016-06-05 00:00:00~lyza~164750~5~5~1~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~3
+25-34~Birth Control~4/29/2016~lyza~164750~5~5~4~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~10
+19-24~Birth Control~1/20/2016~lyza~164750~5~5~3~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~5
+25-34~Birth Control~12/15/2015~lyza~164750~5~5~5~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~5
+19-24~Birth Control~2015-07-12 00:00:00~lyza~164750~5~5~3~NULL~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+25-34~Birth Control~2015-04-09 00:00:00~lyza~164750~2~4~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~3
+35-44~Birth Control~8/20/2015~lyza~164750~5~5~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~1
+35-44~Birth Control~2015-11-03 00:00:00~lyza~164750~2~2~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~3
+45-54~Birth Control~11/14/2014~lyza~164750~2~4~2~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~5
+25-34~Birth Control~3/31/2014~lyza~164750~5~1~1~Female~Nausea ,  vomiting ,  headache ,  bloating ,  breast  tenderness, or  weight  gain may occur.~4
+55-64~Other~2015-09-08 00:00:00~lysiplex plus liquid~149297~1~1~1~Female~Constipation ,  diarrhea , or  upset stomach  may occur.~0
+45-54~Abnormally Long or Heavy Periods~11/20/2019~lysteda~154120~4~4~4~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+45-54~Abnormally Long or Heavy Periods~2019-03-06 00:00:00~lysteda~154120~1~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+45-54~Abnormally Long or Heavy Periods~2019-06-04 00:00:00~lysteda~154120~5~5~4~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+55-64~Abnormally Long or Heavy Periods~2/23/2018~lysteda~154120~4~4~4~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~9/24/2017~lysteda~154120~4~4~5~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+19-24~Dandruff~7/20/2018~pyrithione zinc shampoo~170586~1~1~1~NULL~NULL~3
+75 or over~Dandruff~2017-02-09 00:00:00~pyrithione zinc shampoo~170586~4~3~4~Female~NULL~0
+35-44~Abnormally Long or Heavy Periods~2017-12-09 00:00:00~lysteda~154120~5~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+35-44~Abnormally Long or Heavy Periods~2017-02-09 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+45-54~Abnormally Long or Heavy Periods~7/14/2016~lysteda~154120~3~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~2016-07-03 00:00:00~lysteda~154120~4~4~5~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+35-44~Abnormally Long or Heavy Periods~2016-04-03 00:00:00~lysteda~154120~1~1~1~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+45-54~Abnormally Long or Heavy Periods~2016-02-01 00:00:00~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+45-54~Abnormally Long or Heavy Periods~11/20/2015~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+25-34~Abnormally Long or Heavy Periods~2015-08-11 00:00:00~lysteda~154120~5~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+35-44~Abnormally Long or Heavy Periods~2015-06-09 00:00:00~lysteda~154120~5~4~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~4/30/2015~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+45-54~Abnormally Long or Heavy Periods~2014-02-08 00:00:00~lysteda~154120~5~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+45-54~Abnormally Long or Heavy Periods~7/30/2014~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~5/28/2014~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~5/27/2014~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+45-54~Abnormally Long or Heavy Periods~11/27/2013~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~12
+45-54~Abnormally Long or Heavy Periods~2013-05-11 00:00:00~lysteda~154120~4~4~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~15
+45-54~Abnormally Long or Heavy Periods~2013-11-10 00:00:00~lysteda~154120~3~2~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+13-18~Abnormally Long or Heavy Periods~9/25/2013~lysteda~154120~5~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~8/18/2013~lysteda~154120~4~4~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+19-24~Other~2013-08-07 00:00:00~lysteda~154120~4~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+35-44~Abnormally Long or Heavy Periods~2013-11-05 00:00:00~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~4/22/2013~lysteda~154120~4~4~4~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+35-44~Abnormally Long or Heavy Periods~2/16/2013~lysteda~154120~3~5~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~14
+35-44~Abnormally Long or Heavy Periods~2013-09-02 00:00:00~lysteda~154120~1~5~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+45-54~Abnormally Long or Heavy Periods~1/26/2013~lysteda~154120~4~4~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~1/20/2013~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~14
+35-44~Abnormally Long or Heavy Periods~1/13/2013~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~14
+35-44~Abnormally Long or Heavy Periods~2013-05-01 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+45-54~Abnormally Long or Heavy Periods~12/31/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~13
+45-54~Abnormally Long or Heavy Periods~2012-11-12 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+45-54~Abnormally Long or Heavy Periods~2012-09-12 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+25-34~Abnormally Long or Heavy Periods~2012-03-12 00:00:00~lysteda~154120~4~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+35-44~Abnormally Long or Heavy Periods~10/31/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~10/28/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+45-54~Abnormally Long or Heavy Periods~10/20/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+NULL~Abnormally Long or Heavy Periods~2012-03-10 00:00:00~lysteda~154120~5~5~5~NULL~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+35-44~Abnormally Long or Heavy Periods~9/30/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~12
+35-44~Abnormally Long or Heavy Periods~9/13/2012~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+35-44~Abnormally Long or Heavy Periods~7/27/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~18
+45-54~Abnormally Long or Heavy Periods~7/27/2012~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+35-44~Abnormally Long or Heavy Periods~7/16/2012~lysteda~154120~1~3~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~7/16/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~15
+25-34~Abnormally Long or Heavy Periods~2012-10-07 00:00:00~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+45-54~Abnormally Long or Heavy Periods~2012-01-07 00:00:00~lysteda~154120~1~3~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+25-34~Abnormally Long or Heavy Periods~6/30/2012~lysteda~154120~4~3~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~29
+45-54~Abnormally Long or Heavy Periods~6/24/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~6/19/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~17
+35-44~Abnormally Long or Heavy Periods~6/17/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~14
+45-54~Abnormally Long or Heavy Periods~5/20/2012~lysteda~154120~4~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~5/20/2012~lysteda~154120~4~3~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+45-54~Abnormally Long or Heavy Periods~2012-11-05 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+45-54~Abnormally Long or Heavy Periods~2012-11-05 00:00:00~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+25-34~Abnormally Long or Heavy Periods~4/24/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+NULL~Abnormally Long or Heavy Periods~2012-10-04 00:00:00~lysteda~154120~3~4~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~18
+45-54~Abnormally Long or Heavy Periods~3/28/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+45-54~Abnormally Long or Heavy Periods~3/13/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+45-54~Abnormally Long or Heavy Periods~2012-11-03 00:00:00~lysteda~154120~1~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~30
+35-44~Abnormally Long or Heavy Periods~2012-01-03 00:00:00~lysteda~154120~5~5~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+35-44~Abnormally Long or Heavy Periods~2/21/2012~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+25-34~Abnormally Long or Heavy Periods~2012-11-02 00:00:00~lysteda~154120~5~3~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+19-24~Abnormally Long or Heavy Periods~2012-09-02 00:00:00~lysteda~154120~5~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~0
+35-44~Abnormally Long or Heavy Periods~2012-07-02 00:00:00~lysteda~154120~5~3~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+35-44~Abnormally Long or Heavy Periods~2012-03-02 00:00:00~lysteda~154120~5~5~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+25-34~Abnormally Long or Heavy Periods~1/31/2012~lysteda~154120~4~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+55-64~Abnormally Long or Heavy Periods~1/23/2012~lysteda~154120~5~2~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+65-74~Other~2014-03-05 00:00:00~lysine acetate 4,000 mg oral powder packet~163405~5~5~5~Female~NULL~0
+25-34~Abnormally Long or Heavy Periods~1/19/2012~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+19-24~Abnormally Long or Heavy Periods~2012-12-01 00:00:00~lysteda~154120~4~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~2012-11-01 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~13
+35-44~Abnormally Long or Heavy Periods~2012-03-01 00:00:00~lysteda~154120~3~2~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+35-44~Abnormally Long or Heavy Periods~12/25/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+35-44~Abnormally Long or Heavy Periods~12/17/2011~lysteda~154120~5~4~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~11/27/2011~lysteda~154120~4~2~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+35-44~Abnormally Long or Heavy Periods~11/22/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~20
+45-54~Abnormally Long or Heavy Periods~2011-07-11 00:00:00~lysteda~154120~2~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+19-24~Abnormally Long or Heavy Periods~2011-02-11 00:00:00~lysteda~154120~4~5~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+25-34~Abnormally Long or Heavy Periods~2011-10-10 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+35-44~Abnormally Long or Heavy Periods~2011-03-10 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+45-54~Abnormally Long or Heavy Periods~9/19/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+25-34~Abnormally Long or Heavy Periods~2011-10-09 00:00:00~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+45-54~Abnormally Long or Heavy Periods~2011-09-09 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+35-44~Abnormally Long or Heavy Periods~2011-07-09 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+55-64~Cancer of Ovary in Patient with Germline BRCA Mutation~1/17/2020~lynparza tablet~167493~4~4~3~NULL~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~1
+75 or over~Cancer of Ovary in Patient with Germline BRCA Mutation~1/30/2018~lynparza tablet~167493~5~5~5~NULL~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~16
+65-74~Cancer of Ovary in Patient with Germline BRCA Mutation~2016-08-12 00:00:00~lynparza tablet~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~10
+45-54~Cancer of Ovary in Patient with Germline BRCA Mutation~7/13/2016~lynparza tablet~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~18
+55-64~Cancer of Ovary in Patient with Germline BRCA Mutation~6/21/2016~lynparza tablet~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~20
+45-54~Cancer of Ovary in Patient with Germline BRCA Mutation~5/23/2016~lynparza tablet~167493~5~5~4~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  headache ,  dizziness , change in the way food tastes, or tiredness may occur.~14
+45-54~Abnormally Long or Heavy Periods~2011-05-09 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~2011-04-09 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~2011-01-09 00:00:00~lysteda~154120~4~4~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+35-44~Other~8/27/2011~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~1
+25-34~Abnormally Long or Heavy Periods~8/22/2011~lysteda~154120~5~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~8/16/2011~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+25-34~Abnormally Long or Heavy Periods~2011-11-08 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+35-44~Abnormally Long or Heavy Periods~7/31/2011~lysteda~154120~4~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+35-44~Abnormally Long or Heavy Periods~7/30/2011~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+35-44~Abnormally Long or Heavy Periods~7/18/2011~lysteda~154120~4~5~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+45-54~Abnormally Long or Heavy Periods~7/14/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+45-54~Abnormally Long or Heavy Periods~2011-12-07 00:00:00~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+25-34~Abnormally Long or Heavy Periods~2011-06-07 00:00:00~lysteda~154120~2~2~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+35-44~Abnormally Long or Heavy Periods~2011-06-07 00:00:00~lysteda~154120~2~2~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+45-54~Abnormally Long or Heavy Periods~2011-01-07 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~25
+45-54~Abnormally Long or Heavy Periods~6/18/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~19
+35-44~Abnormally Long or Heavy Periods~6/16/2011~lysteda~154120~4~2~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+35-44~Abnormally Long or Heavy Periods~5/15/2011~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~11
+45-54~Abnormally Long or Heavy Periods~2011-11-05 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~15
+35-44~Abnormally Long or Heavy Periods~2011-01-05 00:00:00~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~16
+35-44~Abnormally Long or Heavy Periods~3/30/2011~lysteda~154120~5~4~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~23
+35-44~Abnormally Long or Heavy Periods~3/22/2011~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~16
+45-54~Abnormally Long or Heavy Periods~2011-12-03 00:00:00~lysteda~154120~5~3~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+35-44~Abnormally Long or Heavy Periods~2011-12-03 00:00:00~lysteda~154120~4~4~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+25-34~Abnormally Long or Heavy Periods~2011-10-03 00:00:00~lysteda~154120~3~2~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~7
+45-54~Abnormally Long or Heavy Periods~2011-07-03 00:00:00~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+25-34~Abnormally Long or Heavy Periods~2011-07-03 00:00:00~lysteda~154120~1~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+35-44~Abnormally Long or Heavy Periods~2011-07-03 00:00:00~lysteda~154120~3~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+25-34~Abnormally Long or Heavy Periods~2011-03-03 00:00:00~lysteda~154120~4~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+25-34~Abnormally Long or Heavy Periods~2011-12-02 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~8
+19-24~Abnormally Long or Heavy Periods~2011-02-02 00:00:00~lysteda~154120~4~4~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+25-34~Abnormally Long or Heavy Periods~1/28/2011~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+35-44~Abnormally Long or Heavy Periods~1/23/2011~lysteda~154120~3~4~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~10
+35-44~Abnormally Long or Heavy Periods~1/22/2011~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~2
+35-44~Abnormally Long or Heavy Periods~2011-12-01 00:00:00~lysteda~154120~5~4~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~3
+45-54~Abnormally Long or Heavy Periods~2011-09-01 00:00:00~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+35-44~Abnormally Long or Heavy Periods~12/28/2010~lysteda~154120~1~1~1~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~4
+25-34~Abnormally Long or Heavy Periods~12/27/2010~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+25-34~Abnormally Long or Heavy Periods~12/20/2010~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+35-44~Abnormally Long or Heavy Periods~11/28/2010~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~25
+45-54~Abnormally Long or Heavy Periods~11/28/2010~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~12
+35-44~Abnormally Long or Heavy Periods~11/17/2010~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~6
+35-44~Abnormally Long or Heavy Periods~2010-04-11 00:00:00~lysteda~154120~4~5~4~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+35-44~Abnormally Long or Heavy Periods~9/29/2010~lysteda~154120~3~4~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~12
+45-54~Abnormally Long or Heavy Periods~2010-02-09 00:00:00~lysteda~154120~4~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~16
+25-34~Abnormally Long or Heavy Periods~8/23/2010~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~11
+35-44~Abnormally Long or Heavy Periods~8/20/2010~lysteda~154120~5~5~5~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~13
+35-44~Abnormally Long or Heavy Periods~8/18/2010~lysteda~154120~4~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~5
+35-44~Abnormally Long or Heavy Periods~2010-09-08 00:00:00~lysteda~154120~3~2~2~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~9
+45-54~Abnormally Long or Heavy Periods~2010-06-08 00:00:00~lysteda~154120~4~3~3~Female~Nausea ,  vomiting ,  diarrhea , and  muscle pain  may occur.~14
+55-64~Cancer of Ovary in Patient with Germline BRCA Mutation~1/17/2020~lynparza~167493~4~4~3~NULL~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~1
+75 or over~Cancer of Ovary in Patient with Germline BRCA Mutation~1/30/2018~lynparza~167493~5~5~5~NULL~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~16
+65-74~Cancer of Ovary in Patient with Germline BRCA Mutation~2016-08-12 00:00:00~lynparza~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~10
+45-54~Cancer of Ovary in Patient with Germline BRCA Mutation~7/13/2016~lynparza~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~18
+55-64~Cancer of Ovary in Patient with Germline BRCA Mutation~6/21/2016~lynparza~167493~5~5~5~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~20
+45-54~Cancer of Ovary in Patient with Germline BRCA Mutation~5/23/2016~lynparza~167493~5~5~4~Female~Nausea ,  vomiting , loss of appetite,  diarrhea ,  constipation , bad taste in your  mouth ,  dizziness , or  joint /back/ muscle pain  may occur.~14
+35-44~Other~11/25/2009~lymphazurin vial~75352~1~3~1~Female~NULL~1
+45-54~Other~8/31/2009~lymphazurin vial~75352~1~1~1~Female~NULL~1
+NULL~Neuropathic Pain~2/29/2020~lyrica~93965~5~5~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~12
+NULL~Nerve Pain after Herpes~2/24/2020~lyrica~93965~5~5~5~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+65-74~Neuropathic Pain~2/20/2020~lyrica~93965~5~5~5~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+19-24~Neuropathic Pain~2019-08-12 00:00:00~lyrica~93965~1~3~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~14
+35-44~Neuropathic Pain~2019-01-12 00:00:00~lyrica~93965~5~5~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~11
+45-54~Disorder characterized by Stiff, Tender & Painful Muscles~10/30/2019~lyrica~93965~5~3~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+65-74~Neuropathic Pain~9/19/2019~lyrica~93965~3~3~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~11
+55-64~Neuropathic Pain~2019-10-09 00:00:00~lyrica~93965~2~2~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~8
+55-64~Nerve Pain from Spinal Cord Injury~8/15/2019~lyrica~93965~5~5~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+65-74~Neuropathic Pain~2019-09-08 00:00:00~lyrica~93965~3~3~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~7
+45-54~Repeated Episodes of Anxiety~2019-07-08 00:00:00~lyrica~93965~5~5~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+19-24~Disorder characterized by Stiff, Tender & Painful Muscles~7/22/2019~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+45-54~Neuropathic Pain~2019-08-05 00:00:00~lyrica~93965~1~5~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~18
+65-74~Nerve Pain from Spinal Cord Injury~2019-05-05 00:00:00~lyrica~93965~4~4~3~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+35-44~Disorder characterized by Stiff, Tender & Painful Muscles~4/21/2019~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Repeated Episodes of Anxiety~4/16/2019~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Neuropathic Pain~3/30/2019~lyrica~93965~3~1~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~8
+55-64~Neuropathic Pain~3/20/2019~lyrica~93965~5~1~1~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~6
+25-34~Other~2019-07-03 00:00:00~lyrica~93965~1~1~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+45-54~Neuropathic Pain~1/23/2019~lyrica~93965~4~4~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~30
+35-44~Neuropathic Pain~1/13/2019~lyrica~93965~5~4~4~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~12
+75 or over~Nerve Pain from Spinal Cord Injury~10/31/2018~lyrica~93965~5~5~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Nerve Pain from Spinal Cord Injury~4/29/2018~lyrica~93965~5~5~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~2
+65-74~Other~4/17/2018~lyrica~93965~1~3~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Neuropathic Pain~2018-02-04 00:00:00~lyrica~93965~5~5~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~30
+NULL~Neuropathic Pain~3/13/2018~lyrica~93965~4~2~4~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~11
+65-74~Other~2/13/2018~lyrica~93965~4~2~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+45-54~Neuropathic Pain~1/25/2018~lyrica~93965~5~5~5~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~20
+55-64~Nerve Pain from Spinal Cord Injury~1/23/2018~lyrica~93965~3~3~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+25-34~Neuropathic Pain~2018-06-01 00:00:00~lyrica~93965~3~5~5~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~10
+45-54~Nerve Pain from Spinal Cord Injury~12/25/2017~lyrica~93965~5~5~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~9
+55-64~Nerve Pain after Herpes~11/14/2017~lyrica~93965~4~2~2~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+65-74~Nerve Pain after Herpes~2017-11-11 00:00:00~lyrica~93965~4~4~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+45-54~Nerve Pain from Spinal Cord Injury~10/18/2017~lyrica~93965~4~2~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
+65-74~Neuropathic Pain~10/17/2017~lyrica~93965~4~4~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~19
+45-54~Neuropathic Pain~7/31/2017~lyrica~93965~5~4~4~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~14
+55-64~Nerve Pain from Spinal Cord Injury~7/13/2017~lyrica~93965~4~4~4~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+75 or over~Nerve Pain after Herpes~2017-07-07 00:00:00~lyrica~93965~4~3~4~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+55-64~Nerve Pain from Spinal Cord Injury~2017-05-07 00:00:00~lyrica~93965~5~3~3~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~7
+45-54~Diabetic Complication causing Injury to some Body Nerves~6/14/2017~lyrica~93965~5~5~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~2
+45-54~Neuropathic Pain~2017-05-06 00:00:00~lyrica~93965~2~2~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~20
+55-64~Other~5/16/2017~lyrica~93965~5~2~3~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
+55-64~Acute Pain Following an Operation~4/25/2017~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+35-44~Other~4/18/2017~lyrica~93965~3~3~3~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+45-54~Nerve Pain from Spinal Cord Injury~2017-07-04 00:00:00~lyrica~93965~4~4~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~4
+45-54~Neuropathic Pain~2017-06-04 00:00:00~lyrica~93965~3~3~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~38
+45-54~Neuropathic Pain~3/28/2017~lyrica~93965~4~5~4~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~29
+35-44~Acute Pain Following an Operation~3/22/2017~lyrica~93965~1~1~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Neuropathic Pain~3/14/2017~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~25
+55-64~Nerve Pain from Spinal Cord Injury~2017-10-03 00:00:00~lyrica~93965~5~4~5~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~4
+55-64~Nerve Pain from Spinal Cord Injury~2017-08-03 00:00:00~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~0
+55-64~Neuropathic Pain~2/23/2017~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~44
+45-54~Neuropathic Pain~2/14/2017~lyrica~93965~5~1~1~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~34
+65-74~Neuropathic Pain~2017-03-02 00:00:00~lyrica~93965~5~5~5~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~35
+45-54~Neuropathic Pain~2017-02-02 00:00:00~lyrica~93965~1~1~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~38
+35-44~Neuropathic Pain~1/30/2017~lyrica~93965~2~2~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~21
+65-74~Neuropathic Pain~1/24/2017~lyrica~93965~5~2~2~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~6
+55-64~Other~1/24/2017~lyrica~93965~5~1~1~Female~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~4
+35-44~Nerve Pain from Spinal Cord Injury~1/21/2017~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
+55-64~Disorder characterized by Stiff, Tender & Painful Muscles~1/19/2017~lyrica~93965~1~1~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~4
+55-64~Diabetic Complication causing Injury to some Body Nerves~1/14/2017~lyrica~93965~4~2~2~Male~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~1
+55-64~Nerve Pain after Herpes~2017-07-01 00:00:00~lyrica~93965~4~4~5~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
+55-64~Neuropathic Pain~12/22/2016~lyrica~93965~2~2~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~15
+65-74~Disorder characterized by Stiff, Tender & Painful Muscles~12/16/2016~lyrica~93965~3~3~1~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
+55-64~Nerve Pain from Spinal Cord Injury~2016-12-12 00:00:00~lyrica~93965~5~5~3~NULL~Drowsiness,  dizziness ,  dry mouth ,  constipation , difficulty concentrating, or  weight  gain may occur.~3
