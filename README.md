@@ -1,12 +1,12 @@
 # Drug-Recommender
-We  created  a  drug  recommendationdashboard by leveraging diverse data visualization princi-ples and techniques.  It allowed the user to compare drugsfor treating a particular condition or combination of con-ditions entered by the user.  Certain interactions were de-signed to efficiently display the overall average satisfaction,effectiveness and review sentiment of the drugs across dif-ferent conditions entered. A metric was designed to rank thedrugs for making a recommendation, and the visual aids areprovided as a proof for supporting recommendation madeby the system.   Text Sentiment Analysis was performed todisplay the positive and negative score with the number ofsuch reviews. This project culminated into a tool that helpsuser understand why the particular drug is best among it’scounterparts.
+We  created  a  drug  recommendation dashboard by leveraging diverse data visualization principles and techniques.  It allowed the user to compare drugs for treating a particular condition or combination of conditions entered by the user.  Certain interactions were designed to efficiently display the overall average satisfaction, effectiveness and review sentiment of the drugs across different conditions entered. A metric was designed to rank the drugs for making a recommendation, and the visual aids are provided as a proof for supporting recommendation made by the system. Text Sentiment Analysis was performed to display the positive and negative score with the number of such reviews. This project culminated into a tool that helps user understand why the particular drug is best among it’s counterparts.
 
 
 ## Demo 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanishkasingh9/Drug-Recommender/master/Demo/drugboard.gif"><br>
-  [Link to the Dashboard](https://sarthakshetty.github.io/)
+  Link to the Dashboard -> (https://sarthakshetty.github.io/)
 </p>
 
 
