@@ -6,8 +6,9 @@ We  created  a  drug  recommendationdashboard by leveraging diverse data visuali
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanishkasingh9/Drug-Recommender/master/Demo/drugboard.gif"><br>
+  [Link to the Dashboard](https://sarthakshetty.github.io/)
 </p>
-[Link to the dashboard](https://sarthakshetty.github.io/)
+
 
 ### Team Members 
 - Tanishka Singh 
